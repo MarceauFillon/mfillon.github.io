@@ -2,7 +2,7 @@
 title: "Simulating a 3D printer on rviz"
 layout: home
 classes: wide
-date: 2016-08-25
+date: 2018-11-05
 tags:
   - Academic project
   - Python
@@ -10,7 +10,7 @@ tags:
   - URDF
   - MoveIt
 header:
-    teaser: "assets/images/move_exam.png"
+    teaser: "https://github.com/DiAifU/move_exam/raw/master/screenshots/moveit.gif"
 excerpt: "This project aims to create a complete simulator of a 3D printer on Rviz using MoveIt."
 ---
 
