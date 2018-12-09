@@ -41,7 +41,7 @@ Six month software and computer engineering internship with a focus on motion-co
 >Osaka, Japan<br>
 >2017, 6 months<br>
 
-Contributed in the development of the robot [PLENCUBE](https://www.youtube.com/watch?v=-DgGPuUFy6U&t=48s) software under R.O.S (Robot operating system) :
+Contributed in the development of the robot [PLENCUBE](https://www.youtube.com/watch?v=-DgGPuUFy6U) software under R.O.S (Robot operating system) :
 - Embedded Linux.  
 - Image processing.
 - Automatic speech recognition.
