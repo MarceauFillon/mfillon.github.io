@@ -112,7 +112,7 @@ Lyon, FRANCE<br>
 - Signal Processing
 - Databases
 - Networking
-- electronics and embedded systems
+- Electronics and embedded systems
 
 
 <br>
