@@ -20,16 +20,16 @@ My studies and personal projects, the hackathons I took part off and the interns
 
 During my gap year, I had the chance to participate in the development of the PLEN Cube robot during a six-month internship in Japan. Subsequently, a significant experience as an intern right-hand man of the CTO in a New York startup company allowed me to acquire a very good level of English as well as a fluency in writing technical documentation. Naturally endowed with good relational skills, I particularly appreciate teamwork.
 
-Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahimelouard/), or reach out over email at ibrahim.elouard@gmail.com
+Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-elouard/), or reach out over email at ibrahim.elouard@gmail.com
 
-<br>
-<br>
+<br><br>
+
 # Experience
+
 <br>
 
-### SOFTWARE ENGINEER INTERN,
-
->** HOPLITE POWER ** <br>
+### SOFTWARE ENGINEER INTERN
+>**HOPLITE POWER** <br>
 >New York, USA<br>
 >2018, 6 months<br>
 
@@ -39,8 +39,7 @@ Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ib
 
 
 ### ROBOTICIST INTERN
-
->**  PLEN ROBOTICS  ** <br>
+>**PLEN ROBOTICS** <br>
 >Osaka, Japan<br>
 >2017, 6 months<br>
 
@@ -53,9 +52,8 @@ Contributed in the development of the robot [PLENCUBE](https://www.youtube.com/w
 
 <br>
 
-### Product development intern
-
->** SHELTER ** <br>
+### PRODUCT DEVELOPMENT INTERN
+>**SHELTER** <br>
 >Paris, FRANCE<br>
 >2015, 2 months<br>
 
@@ -66,7 +64,10 @@ Took part in the creation of an IoT Strat-up company:
 
 
 <br>
+
 # Projects		
+
+<br>
 
 #### MAKE PEPPER DANCE
 > MAY 2017 <br>
@@ -82,10 +83,12 @@ Programmed a wireless robot controlled by hand gesture. Won an international it 
 #### HACKATHON SOLUTEC      
 > JUNE 2016 <br>
 Developed an ANDROID app using OPENCV, deep learning python and C++ for an it competition (2nd prize)                                                          
-
+<br>
 
 <br>
+
 # Education
+
 <br>
 
 ### Master's degree in Robotics - graduation expected in 2019
@@ -102,9 +105,6 @@ Lyon, FRANCE<br>
 -	ELECTRONICS FOR ROBOTICS
 - ADVANCED AUTOMATIC
 - MOBILE ROBOTICS
-
-
-
 <br>
 
 ### Bachelor's degree in Electronics, Computer Engineering and Telecommunications - graduated in 2016
@@ -126,8 +126,8 @@ Lyon, FRANCE<br>
 <br>
 
 # Technical skills
-<br>
 
+<br>
 
 - Proficiency in **Python, Java, embedded C**
 
@@ -144,6 +144,7 @@ Lyon, FRANCE<br>
 <br>
 
 # Languages
+
 <br>
 
 - **French**: Native speaker
