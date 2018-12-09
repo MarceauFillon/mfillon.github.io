@@ -11,15 +11,15 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My portfolio"
+title                    : "Ibrahim Elouard"
 title_separator          : "-"
-name                     : "Ibrahim El ouard"
-description              : "my portfolio."
+name                     : "Ibrahim Elouard"
+description              : "My portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,7 +107,7 @@ author:
   avatar           : "/assets/images/ibrahim.jpg"
   bio              : "Senior year of Master's in Robotics with good interpersonnal skills, seeking for new challenges"
   location         : "Lyon, France"
-  email            :
+  email            : "ibrahim.elouard@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
