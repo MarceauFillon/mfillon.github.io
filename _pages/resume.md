@@ -8,13 +8,12 @@ header:
 permalink: /resume/
 ---
 
-
+<br><br>
 
 # About me
 
 >### Graduate student in Robotics and embedded systems
 
-<br><br>
 I am a 23 years old master’s student in Robotics at CPE Lyon.
 My studies and personal projects, the hackathons I took part off and the internships I did, helped me develop my adaptability as well as many technical skills at various levels. From object-oriented programming to the development of web-based user interfaces, complementing my knowledge of lower level programming (bash, embedded C, etc.), I now have a very solid technical background.
 
@@ -26,18 +25,16 @@ Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ib
 
 # Experience
 
-<br>
-
 ### SOFTWARE ENGINEER INTERN
 >**HOPLITE POWER** <br>
 >New York, USA<br>
 >2018, 6 months<br>
 
-- Key member of [Hoplite Power](https://www.hoplitepower.com/)'s development and engineering team as the Company develops its second generation smarthphone charger vending kiosk (the "Hoplite Hub")
-- Worked directly with and supported the CEO, who is also the Company's primary software developer and electrical engineer
-- Six month software and computer engineering internship with a focus on motion-control firmware development/finalization and "business logic" client-side, software/application integration for Hoplite Hub
+Key member of [Hoplite Power](https://www.hoplitepower.com/)'s development and engineering team as the Company develops its second generation smarthphone charger vending kiosk (the "Hoplite Hub").<br>
+Worked directly with and supported the CEO, who is also the Company's primary software developer and electrical engineer. <br>
+Six month software and computer engineering internship with a focus on motion-control firmware development/finalization and "business logic" client-side, software/application integration for Hoplite Hub.
 
-
+<br>
 ### ROBOTICIST INTERN
 >**PLEN ROBOTICS** <br>
 >Osaka, Japan<br>
@@ -51,7 +48,6 @@ Contributed in the development of the robot [PLENCUBE](https://www.youtube.com/w
 - Artificial intelligence.
 
 <br>
-
 ### PRODUCT DEVELOPMENT INTERN
 >**SHELTER** <br>
 >Paris, FRANCE<br>
@@ -67,8 +63,6 @@ Took part in the creation of an IoT Strat-up company:
 
 # Projects		
 
-<br>
-
 #### MAKE PEPPER DANCE
 > MAY 2017 <br>
 Taught dance movements to ALDEBARAN’S robot Pepper using python
@@ -76,6 +70,7 @@ Taught dance movements to ALDEBARAN’S robot Pepper using python
 #### B.A.T.M.A.N CAR
 >MAY 2017 <br>
 Developed a DEBIAN-based car using BATMAN protocol to communicate with sensors and other cars
+
 #### FHACKTORY HACKATHON   
 > OCTOBER 2016 <br>
 Programmed a wireless robot controlled by hand gesture. Won an international it competition (1st prize)
@@ -98,13 +93,12 @@ Developed an ANDROID app using OPENCV, deep learning python and C++ for an it co
 Lyon, FRANCE<br>
 >since 2016<br>
 
-- COMPUTER VISION
--	SOFTWARE FOR ROBOTICS
--	ARTIFICIAL INTELLIGENCE
-- SOFTWARE FOR ROBOTICS
--	ELECTRONICS FOR ROBOTICS
-- ADVANCED AUTOMATIC
-- MOBILE ROBOTICS
+- Computer Vision
+-	Software for Robotics
+-	Artificial intelligence
+-	Electronics for Robotics
+- Advanced Automatic
+- Mobile Robotics
 <br>
 
 ### Bachelor's degree in Electronics, Computer Engineering and Telecommunications - graduated in 2016
@@ -113,21 +107,16 @@ Lyon, FRANCE<br>
 Lyon, FRANCE<br>
 2013 - 2016<br>
 
--	SOFTWARE ENGINEERING
-- IMAGE PROCESSING
-- SIGNAL PROCESSING
-- DATABASES
-- NETWORKING
-- ELECTRONICS AND EMBEDDED SYSTEMS
-
-<br>
+-	Software Engineering
+- Image Processing
+- Signal Processing
+- Databases
+- Networking
+- electronics and embedded systems
 
 
 <br>
-
 # Technical skills
-
-<br>
 
 - Proficiency in **Python, Java, embedded C**
 
@@ -142,10 +131,7 @@ Lyon, FRANCE<br>
 
 
 <br>
-
 # Languages
-
-<br>
 
 - **French**: Native speaker
 
