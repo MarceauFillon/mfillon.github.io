@@ -109,9 +109,9 @@ author:
   location         : "Lyon, France"
   email            : "ibrahim.elouard@gmail.com"
   links:
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: mailto:ibrahim.elouard@gmail.com
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/ibrahim-elouard/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -131,9 +131,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:ibrahim.elouard@gmail.com
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/ibrahim-elouard/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
