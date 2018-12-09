@@ -13,6 +13,7 @@ permalink: /resume/
 # About me
 
 >### Graduate student in Robotics and embedded systems
+[pdf](../assets/pdf/RESUME_ELOUARD.pdf){: .btn .btn--info}<br>
 
 I am a 23 years old master’s student in Robotics at CPE Lyon.
 My studies and personal projects, the hackathons I took part off and the internships I did, helped me develop my adaptability as well as many technical skills at various levels. From object-oriented programming to the development of web-based user interfaces, complementing my knowledge of lower level programming (bash, embedded C, etc.), I now have a very solid technical background.
