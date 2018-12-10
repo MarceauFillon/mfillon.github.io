@@ -295,7 +295,7 @@ defaults:
       # comments: false
       # share: true
       # related: false
-      # tags: true
+      tags: true
       #search: true
   # _pages
   - scope:
