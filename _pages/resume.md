@@ -23,7 +23,6 @@ During my gap year, I had the chance to participate in the development of the PL
 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-elouard/), or reach out over email at ibrahim.elouard@gmail.com
 
 <br><br>
-
 # Experience
 
 ### SOFTWARE ENGINEER INTERN
