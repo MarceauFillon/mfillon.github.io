@@ -14,8 +14,8 @@ excerpt: "This project aims to present the simulation of a robot learning how to
 ---
 
 
-# Correction de l'examen Move 2017-2018
-#### CPE Lyon
+# Robot Learning Project
+#### ETSEIB - UPC
 
 [GitHub](https://github.com/MarceauFillon/StreetCrosserPython){: .btn .btn--info}
 
