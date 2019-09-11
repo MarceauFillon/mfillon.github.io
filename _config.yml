@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ibrahim Elouard"
+title                    : "Marceau Fillon"
 title_separator          : "-"
-name                     : "Ibrahim Elouard"
+name                     : "Marceau Fillon"
 description              : "My portfolio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,15 +103,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ibrahim El ouard"
-  avatar           : "/assets/images/ibrahim.jpg"
-  bio              : "Senior year of Master's in Robotics with good interpersonnal skills, seeking for new challenges"
+  name             : "Marceau Fillon"
+  avatar           : "/assets/images/marceau_fillon.jpg"
+  bio              : "Software development engineer with a master in Robotics and embedded systems. \n Seeking for a junior developer position in Melbourne, Australia \n After one year working in Software Quality Assurance in California and 6 months in Hong Kong developing the automation process for a soldering station, I'm seeking new challenges in Melbourne where I hope to find a junior developer position to apply my skills to a a great application such as healthcare or sustainable development."
   location         : "Lyon, France"
-  email            : "ibrahim.elouard@gmail.com"
+  email            : "marceau-fillon@outlook.com"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/ibrahim-elouard/"
+      url: "https://www.linkedin.com/in/marceau-fillon/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,7 +123,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ielouard/"
+      url: "https://github.com/MarceauFillon/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -133,7 +133,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/ibrahim-elouard/"
+      url: "https://www.linkedin.com/in/marceau-fillon/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ielouard/"
+      url: "https://github.com/MarceauFillon/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
