@@ -19,8 +19,9 @@ I am a 23 years old engineer, graduated from the french engineering school CPE L
 
 With a strong background in robotics and software engineering, from CPE LYON and
 UPC Barcelona, I managed to build myself a set of skills in various languages such as Python,
-Java, C and C#, with various robotic applications that I describe in my resume. Even more
-relevant to INVETECH, I recently worked in two high technology companies in USA and
+Java, C and C#, with various robotic and software applications. 
+
+I recently worked in two high technology companies in USA and
 Hong Kong. Those two experiences enhanced my programming and project skills, but also
 opened my mind to various cultural and professional environments.
 
@@ -69,9 +70,7 @@ Developed in Python the automated process of a soldering station containing 2 ro
 
 #### CONTINUOUS INTEGRATION MONITORING WEBSITE
 > APRIL 2018 - JULY 2018 <br>
-Refactored the company's intern website which helps developers monitoring the continuous integration of their changes to the company's product.
-
-####  
+Refactored the company's intern website which helps developers monitoring the continuous integration of their changes to the company's product.  
 
 # Personal projects
 
