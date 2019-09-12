@@ -31,6 +31,21 @@ such as Healthcare or sustainable development.
 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marceau-fillon/), or reach out over email at marceau-fillon@outlook.fr
 
 <br><br>
+# Technical skills
+---
+
+- Proficiency in **Python, Java, embedded C, C#**
+
+- **Environments**: ROS, Linux
+
+- **Web development**: HTML, CSS, JS
+
+- **Softwares**: Visual Studio, MS Office, Matlab
+
+- Strong background with **Github**, **GitLab**, **Bitbucket**
+
+<br><br>
+
 # Experience
 ---
 
@@ -111,17 +126,6 @@ Lyon, FRANCE<br>
 
 
 <br>
-# Technical skills
-
-- Proficiency in **Python, Java, embedded C, C#**
-
-- **Environments**: ROS, Linux
-
-- **Web development**: HTML, CSS, JS
-
-- **Softwares**: Visual Studio, MS Office, Matlab
-
-- Strong background with **Github**, **GitLab**, **Bitbucket**
 
 # Projects
 ---
