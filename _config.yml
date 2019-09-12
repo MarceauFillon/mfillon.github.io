@@ -111,7 +111,6 @@ author:
   job_research     :
     location : "Melbourne, Australia"
     role : "Junior software engineer"
-    urgency : "high"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
