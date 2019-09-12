@@ -158,16 +158,18 @@
 }
 
 .author__job_research{
-  border: 2px solid firebrick;
+  border: 5px solid firebrick;
   border-radius: 13%;
   background-color: firebrick;
   color:white;
+  z-index:-1;
 }
 
 .urgent_title{
-	color:red;
+	color:white;
 	font-weight: bold;
 	font-size:125%;
+	text-align:center;
 }
 
 .author__name {
