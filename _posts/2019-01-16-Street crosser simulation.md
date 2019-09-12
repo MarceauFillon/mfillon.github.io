@@ -6,8 +6,8 @@ date: 2019-01-16
 tags:
   - Academic project
   - Python
-  - Q Learning
-  - User Interface
+  - Q learning
+  - User interface
 header:
     teaser: "/assets/images/q_learning.gif"
 excerpt: "This project aims to present the simulation of a robot learning how to cross a road with multiple roads."
@@ -25,4 +25,3 @@ Team members:
 
 ## Setup
 - Clone the project and run the main script
-
