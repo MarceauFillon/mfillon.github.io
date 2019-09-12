@@ -108,6 +108,10 @@ author:
   bio              : "Computer sciences engineer with a master in Robotics and embedded systems, with good interpersonnal skills and an eagerness to learn."
   location         : "Lyon, France"
   email            : "marceau-fillon@outlook.com"
+  job_research     :
+    - location : "Melbourne, Australia"
+    - role : "Junior software engineer"
+    - urgency : "high"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
