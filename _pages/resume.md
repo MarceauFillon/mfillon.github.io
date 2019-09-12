@@ -64,46 +64,6 @@ Major outcomes: Improvement in team work and observation of production team mana
 
 
 <br>
-# Projects
----
-#### SUDOKU SOLVER
-> CURRENT <br>
-Learning how to develop an android application by implementing a sudoku solver for Android.
-
-#### AUTOMATED SOLDERING STATION
-> FEBRUARY 2019 - AUGUST 2019 <br>
-Developed in Python the automated process of a soldering station containing 2 robots.
-
-#### CONTINUOUS INTEGRATION MONITORING WEBSITE
-> APRIL 2018 - JULY 2018 <br>
-Refactored the company's intern website which helps developers monitoring the continuous integration of their changes to the company's product.  
-
-
-# Academic projects
----
-#### COIN PICKER
-> FEBRUARY 2019 <br>
-Developed a ROS simulation for a robot picking up coins on a table.
-
-#### STREET CROSSER
-> JANUARY 2019 <br>
-Implemented a python simulation of a robot learning how to cross a street using a Q-learning algorithm.
-
-#### GAME OF LIFE
-> OCTOBER 2018 <br>
-Implemented a C-language version of the Game Of Life to reconnect with C-language basics		
-
-#### MAKE PEPPER DANCE
-> MAY 2017 <br>
-Taught dance movements to ALDEBARAN’S robot Pepper using python
-
-#### B.A.T.M.A.N CAR
->MAY 2017 <br>
-Developed a DEBIAN-based car using BATMAN protocol to communicate with sensors and other cars
-                                                         
-<br>
-
-<br>
 
 # Education
 ---
@@ -162,6 +122,47 @@ Lyon, FRANCE<br>
 - **Softwares**: Visual Studio, MS Office, Matlab
 
 - Strong background with **Github**, **GitLab**, **Bitbucket**
+
+# Projects
+---
+#### SUDOKU SOLVER
+> CURRENT <br>
+Learning how to develop an android application by implementing a sudoku solver for Android.
+
+#### AUTOMATED SOLDERING STATION
+> FEBRUARY 2019 - AUGUST 2019 <br>
+Developed in Python the automated process of a soldering station containing 2 robots.
+
+#### CONTINUOUS INTEGRATION MONITORING WEBSITE
+> APRIL 2018 - JULY 2018 <br>
+Refactored the company's intern website which helps developers monitoring the continuous integration of their changes to the company's product.  
+
+
+# Academic projects
+---
+#### COIN PICKER
+> FEBRUARY 2019 <br>
+Developed a ROS simulation for a robot picking up coins on a table.
+
+#### STREET CROSSER
+> JANUARY 2019 <br>
+Implemented a python simulation of a robot learning how to cross a street using a Q-learning algorithm.
+
+#### GAME OF LIFE
+> OCTOBER 2018 <br>
+Implemented a C-language version of the Game Of Life to reconnect with C-language basics		
+
+#### MAKE PEPPER DANCE
+> MAY 2017 <br>
+Taught dance movements to ALDEBARAN’S robot Pepper using python
+
+#### B.A.T.M.A.N CAR
+>MAY 2017 <br>
+Developed a DEBIAN-based car using BATMAN protocol to communicate with sensors and other cars
+                                                         
+<br>
+
+<br>
 
 
 
