@@ -32,8 +32,9 @@ Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ma
 
 <br><br>
 # Experience
+---
 
-### ROBOTICS PROCESSES DEVELOPMENT WORK EXPERIENCE
+### ROBOTICS PROCESSES INTERN
 >**Deepsky Corporation Limited** <br>
 >Hong-Kong, Hong-Kong<br>
 >February 2019 - August 2019, 6 months<br>
@@ -43,7 +44,7 @@ Major outcomes: Improvement in Python language programming and project developme
 
 <br>
 
-### SOFTWARE DEVELOPMENT WORK EXPERIENCE
+### SOFTWARE DEVELOPMENT INTERN
 >**DP Technology** <br>
 >Camarillo, USA<br>
 >July 2017- July 2018, 1 year<br>
@@ -63,7 +64,12 @@ Major outcomes: Improvement in team work and observation of production team mana
 
 
 <br>
-# Professional projects
+# Projects
+---
+#### SUDOKU SOLVER
+> CURRENT <br>
+Learning how to develop an android application by implementing a sudoku solver for Android.
+
 #### AUTOMATED SOLDERING STATION
 > FEBRUARY 2019 - AUGUST 2019 <br>
 Developed in Python the automated process of a soldering station containing 2 robots.
@@ -72,14 +78,9 @@ Developed in Python the automated process of a soldering station containing 2 ro
 > APRIL 2018 - JULY 2018 <br>
 Refactored the company's intern website which helps developers monitoring the continuous integration of their changes to the company's product.  
 
-# Personal projects
 
-#### SUDOKU SOLVER
-> CURRENT <br>
-Learning how to develop an android application by implementing a sudoku solver for Android.
-
-# School projects
-
+# Academic projects
+---
 #### COIN PICKER
 > FEBRUARY 2019 <br>
 Developed a ROS simulation for a robot picking up coins on a table.
@@ -105,7 +106,18 @@ Developed a DEBIAN-based car using BATMAN protocol to communicate with sensors a
 <br>
 
 # Education
+---
+<br>
 
+### Robotics and automation Master exchange
+>**Polytechnic University of Catalunya** <br>
+Barcelona, SPAIN<br>
+>2018 - 2019<br>
+
+- Robot learning
+- Planning and Implementation of Robotic systems
+- Embedded systems
+- Human Robot Interaction
 <br>
 
 ### Master's degree in Robotics and Embedded Systems
@@ -113,12 +125,12 @@ Developed a DEBIAN-based car using BATMAN protocol to communicate with sensors a
 
 >**CPE Lyon** <br>
 Lyon, FRANCE<br>
->2016 - 2019<br>
+>2016 - 2017<br>
 
 - Computer Vision
--	Software for Robotics
--	Artificial intelligence
--	Electronics for Robotics
+- Software for Robotics
+- Artificial intelligence
+- Electronics for Robotics
 - Advanced Automatic
 - Mobile Robotics
 - Embedded systems
