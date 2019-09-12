@@ -71,6 +71,10 @@
   }
 }
 
+.sidebar::-webkit-scrollbar { 
+    display: none; 
+}
+
 .sidebar__right {
   margin-bottom: 1em;
 

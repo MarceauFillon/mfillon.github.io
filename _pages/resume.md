@@ -13,6 +13,8 @@ permalink: /resume/
 >### Computer sciences engineer specialized in Robotics and embedded systems
 [pdf](../assets/pdf/CV_Marceau_Fillon_2019.pdf){: .btn .btn--info}<br>
 
+<br><br>
+
 # About me
 ---
 
