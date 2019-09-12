@@ -41,9 +41,11 @@
   
   {% if author.job_research %}
     <div class="author__job_research">
+	<ul class="author__urls social-icons">
       <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
           <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ author.job_research.location }}</span>
       </li>
+	</ul>
     </div>
   {% endif %}
 

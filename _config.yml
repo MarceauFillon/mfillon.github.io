@@ -109,9 +109,9 @@ author:
   location         : "Lyon, France"
   email            : "marceau-fillon@outlook.com"
   job_research     :
-    - location : "Melbourne, Australia"
-    - role : "Junior software engineer"
-    - urgency : "high"
+    location : "Melbourne, Australia"
+    role : "Junior software engineer"
+    urgency : "high"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
