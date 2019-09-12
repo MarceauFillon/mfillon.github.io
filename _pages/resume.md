@@ -10,10 +10,11 @@ permalink: /resume/
 
 <br><br>
 
-# About me
-
 >### Computer sciences engineer specialized in Robotics and embedded systems
 [pdf](../assets/pdf/CV_Marceau_Fillon_2019.pdf){: .btn .btn--info}<br>
+
+# About me
+---
 
 I am a 23 years old engineer, graduated from the french engineering school CPE LYON.
 
@@ -31,7 +32,7 @@ such as Healthcare or sustainable development.
 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marceau-fillon/), or reach out over email at marceau-fillon@outlook.fr
 
 <br><br>
-# Technical skills
+# Professional skills
 ---
 
 - Proficiency in **Python, Java, embedded C, C#**
@@ -40,7 +41,7 @@ Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ma
 
 - **Web development**: HTML, CSS, JS
 
-- **Softwares**: Visual Studio, MS Office, Matlab
+- **Softwares**: Visual Studio, MS Office, Matlab, Eclipse, Pycharm, Android Studio, SQL Studio
 
 - Strong background with **Github**, **GitLab**, **Bitbucket**
 
