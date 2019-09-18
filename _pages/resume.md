@@ -29,7 +29,7 @@ Hong Kong. Those two experiences enhanced my programming and project skills, but
 opened my mind to various cultural and professional environments.
 
 I am now seeking for new challenges in Melbourne, starting October 2019, where I hope to find a junior software engineer position in a project for a great cause,
-such as Healthcare or sustainable development.
+such as Healthcare or sustainable development, in an innovative company or a research department.
 
 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marceau-fillon/), or reach out over email at marceau-fillon@outlook.fr
 
