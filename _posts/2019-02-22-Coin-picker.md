@@ -15,6 +15,8 @@ excerpt: "This project aims to present the simulation of a robot picking up coin
 
 [GitHub](https://github.com/MarceauFillon/Coin_Picker){: .btn .btn--info}
 
+App address: http://marceaufillon.pythonanywhere.com/
+
 Team members:
 - Marceau Fillon
 - Abdelaziz Miyara
