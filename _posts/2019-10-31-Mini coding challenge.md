@@ -2,10 +2,9 @@
 title: "Mini coding challenge for Sempo"
 layout: home
 classes: wide
-date: 2019-02-22
+date: 2019-10-31
 tags: Coding challenge, python, hash functions, web app
-header:
-    teaser: "/assets/images/coin_picker.gif"
+
 excerpt: "This mini coding project aims to respond to Sempo small coding challenge."
 ---
 
