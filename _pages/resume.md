@@ -10,7 +10,7 @@ permalink: /resume/
 
 <br><br>
 
->### Computer sciences engineer specialized in Robotics and embedded systems
+>### Computer sciences engineer specialized in Software development and Robotics
 [pdf](../assets/pdf/CV_Marceau_Fillon_2019.pdf){: .btn .btn--info}<br>
 
 <br><br>
@@ -22,16 +22,16 @@ I am a 23 years old engineer, graduated from the french engineering school CPE L
 
 With a strong background in robotics and software engineering, from CPE LYON and
 UPC Barcelona, I managed to build myself a set of skills in various languages such as Python,
-Java, C and C#, with various robotic and software applications. 
+Java, C, C# and web development languages (HTML, CSS, Javascript), with various robotic and software applications. 
 
 I recently worked in two high technology companies in USA and
 Hong Kong. Those two experiences enhanced my programming and project skills, but also
 opened my mind to various cultural and professional environments.
 
-I am now seeking for new challenges in Melbourne, starting October 2019, where I hope to find a junior software engineer position in a project for a great cause,
+I am now seeking for new challenges in Melbourne,available now, where I hope to find a junior software engineer position in a project for a great cause,
 such as Healthcare or sustainable development, in an innovative company or a research department.
 
-Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marceau-fillon/), or reach out over email at marceau-fillon@outlook.fr
+Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marceau-fillon/), or reach out over email at marceau-fillon@outlook.com
 
 <br><br>
 # Professional skills
@@ -41,7 +41,9 @@ Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ma
 
 - **Environments**: ROS, Linux
 
-- **Web development**: HTML, CSS, JS
+- **Frameworks**: Flask, Django, .NET MVC Core
+
+- **Web development**: HTML, CSS, JS, SQL
 
 - **Softwares**: Visual Studio, MS Office, Matlab, Eclipse, Pycharm, Android Studio, SQL Studio
 
@@ -52,12 +54,12 @@ Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ma
 # Experience
 ---
 
-### ROBOTICS PROCESSES INTERN
+### ROBOTIC PROCESS AUTOMATION INTERN
 >**Deepsky Corporation Limited** <br>
 >Hong-Kong, Hong-Kong<br>
 >February 2019 - August 2019, 6 months<br>
 
-Role: Member of the Robotics processes team. Developed machining process for a brand-new soldering robot. <br>
+Role: Member of the Robotic Process Automation team. Developed automated machining process for a brand-new soldering robot. <br>
 Major outcomes: Improvement in Python language programming and project development.<br>
 
 <br>
@@ -68,8 +70,9 @@ Major outcomes: Improvement in Python language programming and project developme
 >July 2017- July 2018, 1 year<br>
 
 Role: Member of the Software Quality Assurance team. Developed and maintained tools used by R&D department <br>
-Major projects: refactoring of R&D internal website. Process improvement of ESPRIT’s test procedures and continuous integration. <br>
+Major projects: refactoring of R&D internal website using the .NET CORE MVC framework. Process improvement of ESPRIT’s test procedures and continuous integration. <br>
 Major outcomes: Improvement in team efficiency. Numerous tools created and implemented. Developed technical and operational skills. Discovered and implemented Agile software development. <br>
+Improvement in web development and various languages: C#, vb.net, HTML, CSS, JavaScript and Python.
 
 <br>
 ### PRODUCTION LINE INTERN
@@ -87,7 +90,7 @@ Major outcomes: Improvement in team work and observation of production team mana
 ---
 <br>
 
-### Robotics and automation Master exchange
+### Robotics and Automation Master exchange
 >**Polytechnic University of Catalunya** <br>
 Barcelona, SPAIN<br>
 >2018 - 2019<br>
@@ -107,7 +110,6 @@ Lyon, FRANCE<br>
 
 - Computer Vision
 - Software for Robotics
-- Artificial intelligence
 - Electronics for Robotics
 - Advanced Automatic
 - Mobile Robotics
@@ -120,7 +122,7 @@ Lyon, FRANCE<br>
 Lyon, FRANCE<br>
 2013 - 2016<br>
 
--Software Engineering
+- Software Engineering
 - Image Processing
 - Signal Processing
 - Databases
@@ -142,7 +144,7 @@ Developed in Python the automated process of a soldering station containing 2 ro
 
 #### CONTINUOUS INTEGRATION MONITORING WEBSITE
 > APRIL 2018 - JULY 2018 <br>
-Refactored the company's intern website which helps developers monitoring the continuous integration of their changes to the company's product.  
+Refactored the company's intern website, its database and its API which helped developers monitoring the continuous integration of their changes to the company's product.  
 
 
 # Academic projects
